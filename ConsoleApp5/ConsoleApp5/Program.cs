@@ -24,11 +24,11 @@
         }
 
         int maxNum = numbers[0];
-        foreach (int num in numbers)
+        foreach (int number in numbers)
         {
-            if (num > maxNum)
+            if (number > maxNum)
             {
-                maxNum = num;
+                maxNum = number;
             }
         }
 
