@@ -16,7 +16,7 @@
         return (double)sum / numbers.Length;
     } 
     
-    public static void Main(string[] args)
+    public static void Main(string[] args)git 
     {
         int[] nums = { 1, 2, 3, 4, 5 };
         double average = CalculateAverage(nums);
